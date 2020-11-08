@@ -1,4 +1,4 @@
-# Frequent Itemset Mining: eclat vs fp-growth on 6 datasets
+# Frequent Itemset Mining: eclat vs fp-growth
 
 ## Overview
 
