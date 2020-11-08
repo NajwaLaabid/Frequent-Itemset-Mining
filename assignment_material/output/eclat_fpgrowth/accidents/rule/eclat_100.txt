@@ -1,0 +1,12 @@
+0.4033
+17  r    conf  1.0
+12  r    conf  1.0
+18  r    conf  1.0
+16  r    conf  1.0
+31  r    conf  1.0
+21  r    conf  1.0
+29  r    conf  1.0
+43  r    conf  1.0
+27  r    conf  1.0
+24  r    conf  1.0
+15  r    conf  1.0
