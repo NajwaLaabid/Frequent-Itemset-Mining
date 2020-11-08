@@ -1,4 +1,4 @@
-# Frequent Itemset Mining: a Case Study with 2 Algorithms and 6 datasets
+# Frequent Itemset Mining: eclat vs fp-growth on 6 datasets
 
 ## Overview
 
